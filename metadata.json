@@ -1,0 +1,6 @@
+{
+  "name": "Geprek Aja",
+  "description": "Pemesanan online Ayam Geprek Mozza, Lombok Ijo, Pedas Nagih, Paket Duo & Hemat dengan kustomisasi level pedas, pembayaran digital QRIS & voucher barcode kasir, lokasi outlet, serta ekspor tema WordPress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
